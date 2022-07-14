@@ -1,0 +1,67 @@
+{
+  "Data": [
+    {
+      "Name": "NewRow",
+      "Bol1": true,
+      "Bol2": true,
+      "Int1": 10,
+      "Int2": 5
+    },
+    {
+      "Name": "NewRow_0",
+      "Bol1": false,
+      "Bol2": false,
+      "Int1": 0,
+      "Int2": 0
+    },
+    {
+      "Name": "NewRow_1",
+      "Bol1": false,
+      "Bol2": false,
+      "Int1": 0,
+      "Int2": 0
+    },
+    {
+      "Name": "NewRow_2",
+      "Bol1": false,
+      "Bol2": false,
+      "Int1": 0,
+      "Int2": 0
+    },
+    {
+      "Name": "NewRow_3",
+      "Bol1": false,
+      "Bol2": false,
+      "Int1": 0,
+      "Int2": 0
+    },
+    {
+      "Name": "NewRow_4",
+      "Bol1": false,
+      "Bol2": false,
+      "Int1": 0,
+      "Int2": 0
+    },
+    {
+      "Name": "NewRow_5",
+      "Bol1": false,
+      "Bol2": false,
+      "Int1": 0,
+      "Int2": 0
+    },
+    {
+      "Name": "NewRow_6",
+      "Bol1": false,
+      "Bol2": false,
+      "Int1": 0,
+      "Int2": 0
+    },
+    {
+      "Name": "NewRow_7",
+      "Bol1": false,
+      "Bol2": false,
+      "Int1": 0,
+      "Int2": 0
+    }
+  ]
+}
