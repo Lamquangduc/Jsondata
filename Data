@@ -1,28 +1,28 @@
 {
   "Data": [
     {
-      "Name": "NewRow",
+      "Name": "LK01",
       "Bol1": true,
       "Bol2": true,
-      "Int1": 10,
+      "Int1": 50,
       "Int2": 5
     },
     {
-      "Name": "NewRow_0",
+      "Name": "LK02",
       "Bol1": false,
       "Bol2": false,
       "Int1": 0,
       "Int2": 0
     },
     {
-      "Name": "NewRow_1",
+      "Name": "LK03",
       "Bol1": false,
       "Bol2": false,
       "Int1": 0,
       "Int2": 0
     },
     {
-      "Name": "NewRow_2",
+      "Name": "LK04",
       "Bol1": false,
       "Bol2": false,
       "Int1": 0,
